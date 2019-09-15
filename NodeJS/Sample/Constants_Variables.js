@@ -1,4 +1,3 @@
-// This the first comment i am doing 
 const name = 'Boopathi';
 let changeName = 'maxymusBoopathy';
 
